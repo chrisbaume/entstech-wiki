@@ -1,0 +1,16 @@
+/* generated user stylesheet */
+a { text-decoration: none; }
+a.new, #quickbar a.new,
+a.stub, #quickbar a.stub {
+	color: inherit;
+}
+a.new:after, #quickbar a.new:after {
+	content: "?";
+	color: #CC2200;
+}
+a.stub:after, #quickbar a.stub:after {
+	content: "!";
+	color: #772233;
+}#toc { display: none; }
+.editsection { display: none; }
+textarea { font-family: ; }
